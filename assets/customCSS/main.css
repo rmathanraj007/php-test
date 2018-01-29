@@ -1,0 +1,32 @@
+.img_9
+{
+    width:172px;
+}
+.table-row
+{
+    margin-bottom:20px;
+}
+.bg_1
+{
+    background-image: url(../images/table_1.jpg);
+    background-repeat: no-repeat;
+}
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 46%;
+    left: 40px;
+}
+.txt
+{
+    margin-right: 36px;
+    margin-top: -6px;
+    color:white;
+}
+
+.custom-col-md-2{
+    width: 10% !important;
+}    

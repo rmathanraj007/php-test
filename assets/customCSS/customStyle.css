@@ -1,0 +1,265 @@
+.custom-header{
+    padding: 10px !important;
+}
+.custom-hr{
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+    border-top: 2px solid #eee !important;
+}
+.custom-box-title{
+    margin: 10px !important;
+}
+
+#Invoice_usersTable_wrapper,#itemsTable_wrapper{
+    width: 99%;
+}
+.user-proifle-image{
+    float: left;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: -2px;    
+}
+
+.custom-td-padding{
+    padding: 18px !important;
+}
+
+.custom-formgroup{
+    margin-top: 18px !important;   
+}
+.tableactive{
+    margin-top:10px !important;
+}
+.menuunique{
+    margin-top: -18px;
+}
+.stockselectvalue{
+    margin-top: 18px;
+}
+.stockstatusvalue{
+    margin-top: 50px !important;
+}
+.selectstockvalue{
+    width: 100%;
+}
+.view-image-div{
+    margin-top: 40px;
+}
+.view-image-src{
+    width: 40px;
+}
+.custom-input-group{
+    width: 20%;
+    float:right;
+}
+.custom-breadcrumb{
+    top: 6px !important;
+}
+.custom-box-style{
+    padding: 10px !important;
+}
+.box-active{
+   box-shadow: 4px 5px 5px #888888 !important;
+}
+
+.custom-image-position
+{
+    margin-top: -11px;
+}
+
+.custom-value
+{
+    margin-top: -22px;
+}
+.custom-discount-checkbox
+{
+    margin-top: 5px;
+}
+
+.category-list li img {
+    max-width: 60%;
+    border-radius: 0%;
+}
+.category-list li{
+    width: 14% !important;
+}
+
+#menuItems li img {
+    max-width: 60%; 
+    border-radius: 0%;
+}
+#menuItems li{
+    width: 14% !important;
+}
+
+ .btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+  margin-bottom: 7px;
+}
+.btn-lg {
+  width: 50px;
+  height: 50px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 25px;
+  
+}
+.btn-footer
+{
+    margin-right: 30px;
+}
+.custom-button-margin
+{
+  margin-top: 10px;
+}
+.phone-box-size
+{
+width: 190px;
+}
+.select-box-size
+{
+width: 190px;
+margin-bottom: 3px;
+}
+.search-btn-pos
+{
+margin-left: 10px;
+}
+.discount-box-size
+{
+    width:80px;
+}
+.net-amount-font
+{
+  color: red;
+  font-size: 25px;  
+}
+.Amount_box
+{
+    width: 200px;
+    margin-left: 22px;
+    margin-bottom: 5px;
+}
+.Amount_box_1
+{
+    margin-left: 25px !important;
+   
+}
+.Amount_box_2
+{
+    margin-left: 30px !important;
+   
+}
+.discount-box-size-2
+{
+    width:148px;
+}
+.tender-amount-font
+{
+    color: green;
+    font-size: 25px;    
+}
+.footer-btn-position
+{
+    margin-left: 145px;
+}
+.glyphicon-text
+{
+    margin-top: 15px;
+    margin-left: -21px;
+    font-size: 15px;
+    color: black;
+}
+.glyphicon-text-clear
+{
+    margin-top: 15px;
+    margin-left: -10px;
+    font-size: 15px;
+    color: black;
+}
+.menumanage-checkbox
+{
+    margin-top: 29px;
+}
+.edit-menumanage-checkbox
+{
+    margin-top: 34px;
+}
+.custom-adduser-checkbox
+{
+    margin-top: 15px;
+}
+.custom-adduser-checkbox_1
+{
+    margin-top: 27px;
+}
+.daterange{
+        margin-left: -146px;
+}
+.datelabel label{
+    margin-top: 6px;
+}
+.datelabel{
+    margin-top: -26px;
+}
+.dateLabelForm{
+        margin-top: 8px;
+}
+.dateRangeSales{
+        margin-right: -163px;
+}
+
+    button.dt-button, div.dt-button, a.dt-button {
+    border: 1px solid #008d4c !important;;
+    color: white !important;;
+    background-color: #00a65a !important;
+    background-image: -webkit-linear-gradient(top, #fff 0%, #e9e9e9 100%) !important;
+    background-image: -moz-linear-gradient(top, #fff 0%, #e9e9e9 100%)!important;
+    background-image: -ms-linear-gradient(top, #fff 0%, #e9e9e9 100%)!important;
+    background-image: -o-linear-gradient(top, #fff 0%, #e9e9e9 100%)!important;
+    background-image: linear-gradient(to bottom, #00a65a 0%, #00a65a 100%)!important;
+}    
+#example thead tr th {
+    background-color: #777;
+    color:#fff;
+    
+}
+button.dt-button, div.dt-button, a.dt-button {
+    border: 1px solid #008d4c !important;
+    color: white !important;
+    background-color: #00a65a !important;
+    background-image: -webkit-linear-gradient(top, #fff 0%, #e9e9e9 100%) !important;
+    background-image: -moz-linear-gradient(top, #fff 0%, #e9e9e9 100%)!important;
+    background-image: -ms-linear-gradient(top, #fff 0%, #e9e9e9 100%)!important;
+    background-image: -o-linear-gradient(top, #fff 0%, #e9e9e9 100%)!important;
+    background-image: linear-gradient(to bottom, #00a65a 0%, #00a65a 100%)!important;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    z-index: 3;
+    color: #fff;
+    cursor: default;
+    background-color: #333;
+    border-color: #333;
+}
+.paymentmode{
+    margin-top: 10px;
+}
+.cashbutton{
+        margin-left: -76px;
+}
+.SalesReportForm{
+    margin-top: 6px;
+}
+.daterangelabel{
+    margin-top: 4px;
+}

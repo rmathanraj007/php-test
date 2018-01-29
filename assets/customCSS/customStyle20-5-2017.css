@@ -1,0 +1,31 @@
+.custom-header{
+    padding: 10px !important;
+}
+.custom-hr{
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+    border-top: 2px solid #eee !important;
+}
+.custom-box-title{
+    margin: 10px !important;
+}
+
+#pos_usersTable_wrapper{
+    width: 99%;
+}
+.user-proifle-image{
+    float: left;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: -2px;    
+}
+
+.custom-td-padding{
+    padding: 18px !important;
+}
+
+.custom-formgroup{
+    margin-top: 10px !important;
+}

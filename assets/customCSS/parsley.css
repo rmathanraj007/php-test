@@ -1,0 +1,54 @@
+input.parsley-success,
+select.parsley-success,
+textarea.parsley-success {
+border: 1px solid #468847;
+}
+input.parsley-error,
+select.parsley-error,
+textarea.parsley-error {
+  color: #B94A48;
+}
+
+.parsley-errors-list {
+  margin: 2px 0 14px !important;
+  padding: 0;
+  list-style-type: none;
+  font-size: 0.9em;
+  line-height: 0.9em;
+  opacity: 0;
+
+  transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -webkit-transition: all .3s ease-in;
+}
+
+.parsley-errors-list.filled {
+  opacity: 1;
+}
+.parsley-required, .parsley-type, .parsley-pattern{
+    color: red !important;
+    margin-top:4px;
+}
+#freelancherForm .parsley-errors-list li:before{
+    content:no-close-quote !important;   
+}
+#freelancherForm .parsley-required, .parsley-type{
+    color: red;
+    padding-left: 0px;
+}
+#fresherForm .parsley-errors-list li:before{
+    content:no-close-quote !important;   
+}
+#editUserForm .parsley-required, .parsley-type,.parsley-length,.parsley-minlength{
+    color: red;
+    padding-left: 0px;
+}
+#addUserForm .parsley-required, .parsley-type,.parsley-length,.parsley-minlength{
+    color: red;
+    padding-left: 0px;
+}
+#addcashierCustomerForm .parsley-required, .parsley-type,.parsley-length,.parsley-minlength{
+    color: red !important;
+    padding-left: 0px;
+}
